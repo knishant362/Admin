@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "489109184523",
+    "firebase_url": "https://admin-362.firebaseio.com",
+    "project_id": "admin-362",
+    "storage_bucket": "admin-362.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489109184523:android:8a734f054af0d73f95270e",
+        "android_client_info": {
+          "package_name": "com.trendster.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489109184523-ki8v2f1seku599otr7qqcqkj0kk10if6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trendster.admin",
+            "certificate_hash": "13d4b6745297d73cb6880083efdb6bf07bf14de7"
+          }
+        },
+        {
+          "client_id": "489109184523-hh2ggoomr2fhot6boq02pg93huasiq9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYfR64cdum9Z5X_L9ZdVEl5zb7-bRFzA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489109184523-hh2ggoomr2fhot6boq02pg93huasiq9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
